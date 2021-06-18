@@ -33,7 +33,15 @@ The following machines were identified on the network:
     - The WordPress Host
 - IP Address: 
     - 192.168.1.110
-
+    - 
+**Target 2**
+- Operating System: 
+    - Debian GNU/Linux 8
+- Purpose: 
+    - Vulnerable host to attack
+- IP Address: 
+    - 192.168.1.115
+    - 
 **Capstone**
 - Operating System: 
     - Ubuntu 18.04
